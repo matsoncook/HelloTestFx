@@ -6,6 +6,7 @@ module javafxtest {
 
 	requires junit;
 	requires org.testfx.junit;
+	requires org.assertj.core;
 
 
 }
